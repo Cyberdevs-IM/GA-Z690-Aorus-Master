@@ -86,7 +86,6 @@ The machine should stay asleep until you press a key or move the mouse.
 
 ## Tested hardware
 
-- Intel i9-12900K, motherboard with onboard AQC113C 10GbE
-- Corsair DDR5 CMT32GX5M2X6200C36
+- Intel i9-12900K, GA-Z690 Aorus Master motherboard with onboard AQC113C 10GbE
 - AMD RX 6800 XT
 - OpenCore, macOS Sequoia 15.8.2
